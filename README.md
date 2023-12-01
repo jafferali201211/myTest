@@ -1,4 +1,4 @@
-https://github.com/mystroken/JSBooks/blob/master/%5BBLUEINFY%20SOLUTIONS%5D%5BHTML5%20Top%2010%20Threats%20-%20Stealth%20Attacks%20and%20Silent%20Exploits%20By%20Shreeraj%20Shah%20-%202012%5D.pdf
+https://github.com/mystroken/JSBooks
 
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 8.3.20.
